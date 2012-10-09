@@ -7,11 +7,11 @@ FTNDB - Administration of SQL databases for Fidonet/FTN processing.
 
 =head1 VERSION
 
-Version 0.35
+Version 0.37
 
 =cut
 
-our $VERSION = '0.35';
+our $VERSION = '0.37';
 
 =head1 DESCRIPTION
 
